@@ -1,2 +1,2 @@
-# Chat-app-Ping.io-
-A simple chat bot using socket io
+# User Chat Application - PingIO
+A multi-user chat application using Express JS & [SocketIO](https://socket.io/)
